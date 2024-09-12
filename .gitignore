@@ -1,0 +1,7 @@
+# Arquivos de configuração do Python __pycache__/ *.pyc *.pyo *.pyd *.pyd *.pyo 
+# Jupyter Notebook .ipynb_checkpoints/ 
+# Ambiente virtual venv/ .env/ .env.local/ .env.production/ 
+# Diretórios e arquivos de cache *.cache *.log *.tmp *.swp 
+# Arquivos de dados *.csv 
+# Arquivos de configuração de IDE .vscode/ .idea/ # Sistema operacional .DS_Store Thumbs.db 
+# Arquivos gerados por ferramentas de build dist/ build/ *.egg-info/
